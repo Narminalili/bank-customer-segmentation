@@ -1,7 +1,7 @@
 # 🏦 Bank Customer Segmentation Analysis
 
 ## 📌 Overview & Context
-This project aims to enhance banking competitiveness and minimize customer churn. By analyzing over **1 million transactions**, I implemented an **RFM (Recency, Frequency, Monetary)** model to segment the customer base. This enables the bank to apply personalized marketing strategies for each segment and optimize marketing budget allocation more effectively.
+**Note on Data Volume**: The original dataset contains over 1,000,000+ transactions. Due to GitHub's file size limitations, a representative sample of 350,000 rows is uploaded here for demonstration purposes. All analysis and Python scripts were originally developed and tested on the full 1M+ dataset.
 
 ## 🛠️ Tech Stack
 *   **Data Processing:** Python (Pandas, NumPy)
