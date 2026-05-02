@@ -47,16 +47,16 @@ Primary findings from the analysis include:
 ├── sql/              # Queries for RFM segmentation and business metrics
 ├── powerbi/          # .pbix file and dashboard snapshots
 └── requirements.txt  # List of necessary Python libraries
+```
 
 ---
 
 ## 👨‍💻 Author
 
 **Narmin Alili**
+
 📍 Baku, Azerbaijan
 
-https://github.com/Narminalili
-https://www.linkedin.com/in/narmin-alili
 
 [<img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Narminalili)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/narmin-alili/)
