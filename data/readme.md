@@ -1,1 +1,1 @@
-Raw and cleaned datasets used in the project
+Due to GitHub's file size limits, a 350,000-row subset of the original 1M+ records has been uploaded. This representative sample is fully adequate for demonstrating all analysis, scripts, and visualizations within this project.
